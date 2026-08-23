@@ -1,4 +1,3 @@
-print ("hello world")
 # single line comment by # and multi line comment by "" '''
 # print("heelooo") ye string hai, print(hello) ye function hai
 # indentation is used to know the scope, or to definwe the code blocks, jo space ati hai code likne ke bd ex if codition ko define krne ke bd
@@ -43,3 +42,5 @@ print(type(j))
 #dic is pair of key and value, dic is mutable, dic is unordered, dic is not indexable, dic is not sliceable, dic is not iterable, dic is not hashable, dic is not comparable, dic is not sortable
 # dic is accesed due to key
 # variables
+# we use python 3 
+# before python 2 was used, python 2 is not supported now, python 3 is the latest version of python
